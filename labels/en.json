@@ -1,0 +1,48 @@
+{
+  "hero": {
+    "title": "Welcome to Our Film Project",
+    "description": "We are raising funds to bring this vision to life.",
+    "video": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/hero.mp4",
+    "button": "Donate Now"
+  },
+  "team": {
+    "title": "Meet the Team",
+    "members": [
+      {
+        "name": "Sahej Singh Nandrajog",
+        "role": "Writer/Director",
+        "description": "Alice is an award-winning director with a passion for storytelling.",
+        "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/alice.jpg",
+        "color": "bg-[#790707]"
+      },
+      {
+        "name": "Emily Ma",
+        "role": "Production Designer",
+        "description": "Bob has produced several successful indie films.",
+        "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/bob.jpg",
+        "color": "bg-[#15CFB0]"
+      },
+      {
+        "name": "Lily Guo",
+        "role": "Producer",
+        "description": "Alice is an award-winning director with a passion for storytelling.",
+        "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/charlie.jpg",
+        "color": "bg-[#1F7570]"
+      },
+      {
+        "name": "Les Gaddis",
+        "role": "Cinematographer",
+        "description": "Alice is an award-winning director with a passion for storytelling.",
+        "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/dana.jpg",
+        "color": "bg-[#D8A651]"
+      },
+      {
+        "name": "Icey Zhang",
+        "role": "Editor",
+        "description": "Alice is an award-winning director with a passion for storytelling.",
+        "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/dana.jpg",
+        "color": "bg-[#AD4851]"
+      }
+    ]
+  }
+}
