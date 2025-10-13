@@ -1,7 +1,7 @@
 {
   "hero": {
     "title": "Welcome to Our Film Project",
-    "description": "We are raising funds to bring this vision to life.",
+    "logline": "Feeling trapped in Northridge years after graduation, Mae plans to leave her longtime boyfriend Jess, but not before finding him a new girlfriend, in one last act of chaotic love.",
     "video": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Videos/hero.mp4",
     "button": "Donate Now"
   },
@@ -18,8 +18,8 @@
       {
         "name": "Emily Ma",
         "role": "Production Designer",
-        "description": "Bob has produced several successful indie films.",
-        "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Team/bob.jpg",
+        "description": "Emily Ma is a Production Designer based in Los Angeles. She is currently earning her M.F.A. in Production Design from the American Film Institute Conservatory and holds dual degrees in Film Production (B.S.) and Psychology(B.A.) from Boston University. Many of Emily’s works are  recognized by festivals such as South by Southwest (SXSW) and DGA. As an artist, Emily aims to bring voice to the voiceless and is always challenging herself with more creative ways of storytelling.",
+        "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Team/EmilyMa_Headshot.jpg",
         "color": "bg-[#15CFB0]"
       },
       {
