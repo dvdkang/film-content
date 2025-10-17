@@ -9,6 +9,7 @@
     "title": "Meet the Team",
     "members": [
       {
+        "id": 0,
         "name": "Sahej Singh Nandrajog",
         "role": "Writer/Director",
         "description": "Sahej Singh Nandrajog is a 26-year-old filmmaker from Mumbai with three prior feature film credits to his name. He is the writer and director of 'White Lies' (2019), a student feature; 'July 2020' (2021), which premiered at the KASHISH Mumbai International Queer Film Festival in 2022; and 'Varun! Medha! Varun!' (2023) is his third and latest, which was a part of the Indian Film Festival of Melbourne 365 programming. Sahej is currently enrolled as a directing fellow at the American Film Institute Conservatory in Los Angeles.",
@@ -17,13 +18,16 @@
         "emoji": "🎷"
       },
       {
+        "id": 1,
         "name": "Lily Guo",
         "role": "Producer",
         "description": "Alice is an award-winning director with a passion for storytelling.",
         "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Team/charlie.jpg",
-        "color": "bg-[#1F7570]"
+        "color": "bg-[#1F7570]",
+        "emoji": "🎺"
       },
       {
+        "id": 2,
         "name": "Emily Ma",
         "role": "Production Designer",
         "description": "Emily Ma is a Production Designer based in Los Angeles. She is currently earning her M.F.A. in Production Design from the American Film Institute Conservatory and holds dual degrees in Film Production (B.S.) and Psychology(B.A.) from Boston University. Many of Emily’s works are  recognized by festivals such as South by Southwest (SXSW) and DGA. As an artist, Emily aims to bring voice to the voiceless and is always challenging herself with more creative ways of storytelling.",
@@ -31,6 +35,7 @@
         "color": "bg-[#15CFB0]"
       },
       {
+        "id": 3,
         "name": "Les Gaddis",
         "role": "Cinematographer",
         "description": "Les Gaddis is an American cinematographer from New Orleans, LA. He began his career filming events and music videos.  His feature films as a cinematographer include: Confessions (2023), Triple D Revenge (2022), Mr. Gates (2024), The Starter Marriage (2021), The Lil Voice (2019) & Left (2017). Les is a member of the International Cinematographer's Guild and Society of Camera Operators and is currently enrolled as a cinematography fellow at the American Film Institute Conservatory in Los Angeles.",
@@ -38,6 +43,7 @@
         "color": "bg-[#D8A651]"
       },
       {
+        "id": 4,
         "name": "Icey Zhang",
         "role": "Editor",
         "description": "Alice is an award-winning director with a passion for storytelling.",
