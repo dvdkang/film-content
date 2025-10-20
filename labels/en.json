@@ -21,8 +21,8 @@
         "id": 1,
         "name": "Lily Guo",
         "role": "Producer",
-        "description": "Alice is an award-winning director with a passion for storytelling.",
-        "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Team/charlie.jpg",
+        "description": "Lily Guo graduated from USC, studying Economics and Cinematic Arts before pursuing Producing at AFI. She is passionate about storytelling that connects people and fosters empathy, aiming to use film to bring unity and understanding to audiences everywhere. She has honed her skills at companies like Sony Pictures and FilmNation and continues to grow as a well-rounded storyteller. She’s excited to turn this ambitious musical dream into a tangible, immersive world. Fun fact – she has an identical twin sister who’s a music producer.",
+        "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Team/Lily_Headshot.jpg",
         "color": "bg-[#1F7570]",
         "emoji": "🎺"
       },
