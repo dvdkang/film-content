@@ -46,8 +46,8 @@
         "id": 4,
         "name": "Icey Zhang",
         "role": "Editor",
-        "description": "Alice is an award-winning director with a passion for storytelling.",
-        "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Team/dana.jpg",
+        "description": "Icey Zhang is an editor and MFA candidate at the American Film Institute Conservatory. Her editing spans narrative shorts, documentaries, and commercials, where she seeks to weave rhythm and emotion into every frame.",
+        "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Team/Icey_Headshot.jpg",
         "color": "bg-[#AD4851]"
       }
     ]
