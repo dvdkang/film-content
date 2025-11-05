@@ -24,7 +24,7 @@
         "description": "Lily Guo graduated from USC, studying Economics and Cinematic Arts before pursuing Producing at AFI. She is passionate about storytelling that connects people and fosters empathy, aiming to use film to bring unity and understanding to audiences everywhere. She has honed her skills at companies like Sony Pictures and FilmNation and continues to grow as a well-rounded storyteller. She’s excited to turn this ambitious musical dream into a tangible, immersive world. Fun fact – she has an identical twin sister who’s a music producer.",
         "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Team/Lily_Headshot.jpg",
         "color": "bg-[#1F7570]",
-        "emoji": "🎺"
+        "emoji": "🪗"
       },
       {
         "id": 2,
@@ -32,7 +32,8 @@
         "role": "Production Designer",
         "description": "Emily Ma is a Production Designer based in Los Angeles. She is currently earning her M.F.A. in Production Design from the American Film Institute Conservatory and holds dual degrees in Film Production (B.S.) and Psychology(B.A.) from Boston University. Many of Emily’s works are  recognized by festivals such as South by Southwest (SXSW) and DGA. As an artist, Emily aims to bring voice to the voiceless and is always challenging herself with more creative ways of storytelling.",
         "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Team/EmilyMa_Headshot.jpg",
-        "color": "bg-[#15CFB0]"
+        "color": "bg-[#15CFB0]",
+        "emoji": "🎸"
       },
       {
         "id": 3,
@@ -40,7 +41,8 @@
         "role": "Cinematographer",
         "description": "Les Gaddis is an American cinematographer from New Orleans, LA. He began his career filming events and music videos.  His feature films as a cinematographer include: Confessions (2023), Triple D Revenge (2022), Mr. Gates (2024), The Starter Marriage (2021), The Lil Voice (2019) & Left (2017). Les is a member of the International Cinematographer's Guild and Society of Camera Operators and is currently enrolled as a cinematography fellow at the American Film Institute Conservatory in Los Angeles.",
         "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Team/Les_Headshot.jpg",
-        "color": "bg-[#D8A651]"
+        "color": "bg-[#D8A651]",
+        "emoji": "🥁"
       },
       {
         "id": 4,
@@ -48,7 +50,8 @@
         "role": "Editor",
         "description": "Icey Zhang is an editor and MFA candidate at the American Film Institute Conservatory. Her editing spans narrative shorts, documentaries, and commercials, where she seeks to weave rhythm and emotion into every frame.",
         "photo": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Team/Icey_Headshot.jpg",
-        "color": "bg-[#AD4851]"
+        "color": "bg-[#AD4851]",
+        "emoji": "🎺"
       }
     ]
   },
