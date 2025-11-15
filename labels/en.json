@@ -63,5 +63,13 @@
       "     As Mae navigates love, ambition, and the hilarious fallout of her matchmaking scheme, she must make a choice that could change everything. Will she follow her dreams, or will her heart keep her grounded? “North by Northridge” is a vibrant, musical tale of love, self-discovery, and the fine line between chasing dreams and holding on to what matters most."
     ],
     "copyrights": "Jess & Mae. All rights reserved."
+  },
+  "support": {
+    "title": "Support Us",
+    "description": [
+      "The American Film Institute is a 501c3 non-profit educational organization, which has tax-exempt status under section 501 (c) (3) of the Internal Revenue Code of 1954, federal identification number 52-6072925. Your donation may be tax-deductible!",
+      "AFI is dedicated to celebrating excellence in the art form and to creating national education that inspires artists and audiences alike. Every contribution goes 100% directly toward production — from original music composition and recording to singing and dance rehearsals, location rentals, actor training, visual effects, and ensuring a safe, efficient filming environment. The film's musical and dance elements present exciting creative challenges: they demand a precise balance between music, lighting, cinematography, and performance to capture the rhythm and emotion of our characters."
+    ],
+    "budgetChart": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Support/Budget%20Pie%20Chart.jpg"
   }
 }
