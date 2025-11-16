@@ -79,5 +79,43 @@
       "$5,000-$9999: Executive Producer"
     ],
     "budgetChart": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Support/Budget%20Pie%20Chart.jpg"
+  },
+  "timeline": {
+    "phases": [
+      {
+        "title": "Pre-Production",
+        "period": "Now – Apr 2026",
+        "details": [
+          "Script development, music ideation, begin fundraising (Now – Dec 2025)",
+          "Cast & crew building, rehearsals, production design (Jan 2026 – Apr 2026)"
+        ],
+        "color": "#3b82f6",
+        "notePosition": 35
+      },
+      {
+        "title": "Production",
+        "period": "Apr 29 – May 8, 2026",
+        "details": ["Principal photography in Los Angeles"],
+        "color": "#ef4444",
+        "notePosition": 50
+      },
+      {
+        "title": "Post-Production",
+        "period": "May 26 – Oct 2026",
+        "details": [
+          "Editing, music recording, sound design, color grading, VFX",
+          "Internal test screening (June 2026)"
+        ],
+        "color": "#8b5cf6",
+        "notePosition": 45
+      },
+      {
+        "title": "Festival & Release",
+        "period": "After Oct 2026",
+        "details": ["Festival submissions and festival run"],
+        "color": "#f59e0b",
+        "notePosition": 60
+      }
+    ]
   }
 }
