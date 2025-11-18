@@ -142,9 +142,48 @@
     "contactPage": "url('https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/contact-bg.jpg')"
   },
   "navbar": {
-    "nav": ["Synopsis", "Team", "Support Us", "Contact", "Reference"],
+    "nav": [
+      {
+        "name": "Synopsis",
+        "link": "/synopsis"
+      },
+      {
+        "name": "Team",
+        "link": "/team"
+      },
+      {
+        "name": "Support Us",
+        "link": "/support"
+      },
+      {
+        "name": "Contact",
+        "link": "/contact"
+      },
+      {
+        "name": "Reference",
+        "link": "/reference"
+      }
+    ],
     "title": "North by Northridge",
     "button": "Donate Now",
-    "mobileNav": ["Synopsis", "Team", "Support Us", "Contact"]
+    "donateLink": "https://www.afi.com/support/?Op=donate&don=621",
+    "mobileNav": [
+      {
+        "name": "Synopsis",
+        "link": "/synopsis"
+      },
+      {
+        "name": "Team",
+        "link": "/team"
+      },
+      {
+        "name": "Support Us",
+        "link": "/support"
+      },
+      {
+        "name": "Contact",
+        "link": "/contact"
+      }
+    ]
   }
 }
