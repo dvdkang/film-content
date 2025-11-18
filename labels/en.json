@@ -1,9 +1,9 @@
 {
   "hero": {
-    "title": "Welcome to Our Film Project",
     "logline": "Feeling trapped in Northridge years after graduation, Mae plans to leave her longtime boyfriend Jess, but not before finding him a new girlfriend, in one last act of chaotic love.",
-    "video": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Videos/hero.mp4",
-    "button": "Donate Now"
+    "video": "https://www.youtube.com/embed/s7_pd2HSDdg?enablejsapi=1",
+    "button": "Donate Now",
+    "donate": "https://www.afi.com/support/?Op=donate&don=621"
   },
   "team": {
     "title": "Meet the Team",
