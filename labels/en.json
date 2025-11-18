@@ -133,5 +133,12 @@
         "image": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Reference/refvid4.mp4"
       }
     ]
+  },
+  "background": {
+    "synopsisPage": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/synopsis-bg.png",
+    "homePage": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/home.jpg",
+    "teamPage": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/team-bg.png",
+    "supportPage": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/support-bg.jpg",
+    "contactPage": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/contact-bg.jpg"
   }
 }
