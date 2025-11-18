@@ -185,5 +185,25 @@
         "link": "/contact"
       }
     ]
+  },
+  "contact": {
+    "logline": [
+      "Join us on this ",
+      "cinematic journey",
+      "! Get exclusive ",
+      "behind-the-scenes",
+      " content and updates on our musical film thesis project"
+    ],
+    "inputDetail": [
+      "Behind the Curtain",
+      "Subscribe for exclusive updates & BTS photos"
+    ],
+    "subsribeButton": "Subscribe Now",
+    "reachOut": [
+      "Direct Contact",
+      "Reach out for collaborations & inquiries",
+      "northbynorthridge.musical@gmail.com"
+    ],
+    "privacy": "Your privacy is protected – we'll never share your information"
   }
 }
