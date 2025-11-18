@@ -117,5 +117,21 @@
         "notePosition": 60
       }
     ]
+  },
+  "reference": {
+    "refer": [
+      {
+        "image": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Reference/refvid1.mp4"
+      },
+      {
+        "image": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Reference/refvid2.mp4"
+      },
+      {
+        "image": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Reference/refvid3.mp4"
+      },
+      {
+        "image": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Reference/refvid4.mp4"
+      }
+    ]
   }
 }
