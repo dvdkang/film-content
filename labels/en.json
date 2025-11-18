@@ -135,10 +135,10 @@
     ]
   },
   "background": {
-    "synopsisPage": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/synopsis-bg.png",
-    "homePage": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/home.jpg",
-    "teamPage": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/team-bg.png",
-    "supportPage": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/support-bg.jpg",
-    "contactPage": "https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/contact-bg.jpg"
+    "synopsisPage": "url('https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/synopsis-bg.png')",
+    "homePage": "url('https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/home.jpg')",
+    "teamPage": "url('https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/team-bg.png')",
+    "supportPage": "url('https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/support-bg.jpg')",
+    "contactPage": "url('https://eoihqopusjdnmgmfgyrr.supabase.co/storage/v1/object/public/assets/Scene%20Background/contact-bg.jpg')"
   }
 }
